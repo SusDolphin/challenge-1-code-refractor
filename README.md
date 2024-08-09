@@ -3,22 +3,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The purpose of this website is to advertise the company Horiseon. There are three factors of their business: search engine optimization, online reputation management and social media marketing. Improvements were made to a select few links that weren't working properly, the replacement of all divs to the correct HTML semantics, adding alt texts to images and consolidating css for efficiency. Comments are displayed for each css consolidation function.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![alttext](./assets/images/screenshot.png) 
 
 
 ## Credits
